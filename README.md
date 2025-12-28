@@ -5,12 +5,12 @@
 ## About Me
 I'm a **Web Developer & AI/ML Engineer** passionate about creating **future-ready applications**. I specialize in combining **modern front-end frameworks, predictive ML models, and robust IT infrastructure** to deliver high-quality solutions.  
 
-- 🔹 Developing **full-stack web apps with React, Node.js, and TypeScript**  
-- 🔹 Designing **AI & ML models** for predictive analytics, recommendation systems, and automation  
-- 🔹 Exploring **NLP, Computer Vision, and AI Agents**  
-- 🔹 Interested in **collaborations on AI-driven projects**  
-- 🔹 Portfolio: [apdirahin-tech.pages.dev](https://apdirahin-tech.pages.dev)  
-- 🔹 Contact: **apdirahiimipraahim@gmail.com**
+🔹 Developing **full-stack web apps with React, Node.js, and TypeScript**  
+🔹 Designing **AI & ML models** for predictive analytics, recommendation systems, and automation  
+🔹 Exploring **NLP, Computer Vision, and AI Agents**  
+🔹 Interested in **collaborations on AI-driven projects**  
+🔹 Portfolio: [apdirahin-tech.pages.dev](https://apdirahin-tech.pages.dev)  
+🔹 Contact: **apdirahiimipraahim@gmail.com**
  
 ## 🔧 Core Skills
 
